@@ -1,4 +1,2 @@
 # miniApp
-Small example App to get familiar with:
-
-Pyhton, Flask, Docker, Kubernetes
+Small example App (Flask, Docker, Kubernetes)
